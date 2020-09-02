@@ -6,7 +6,7 @@ For over twelve years I was a journalist in a convulsed Venezuela. Helping inter
 
 ---
 
-Growing up in a humble environment has taught me a lot and it makes me want to participate in developoing solutions to make people's life not only easier but happier.
+Growing up in a humble environment has taught me a lot and it makes me want to participate in developing solutions to make people's life not only easier but happier.
 I consider mediocrity humanity's worst enemy and I try my best to teach my 4-year-old daughter to always give her best and seriously commit to her dreams as I myself try to do.
 I'm passionate about pop culture, anime, movies, drawing, photography and fashion design (this one because of my lovely wife); so if you would like to have a conversation about any of these topics do not hesitate to send me a whatsapp message to **+58-424-134127** or an email to **yesmanshiva@gmail.com**.
 
