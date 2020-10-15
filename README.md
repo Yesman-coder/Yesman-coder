@@ -2,7 +2,7 @@
 
 <img align="left" width="300" height="300" src="https://user-images.githubusercontent.com/62892745/90345063-68b21a80-dfec-11ea-8d8c-4ce6edcaf6f8.png">
 
-For over twelve years I was a journalist in a convulsed Venezuela. Helping international news teams to find good stories was my passion until it got too dangerous and stressful. Since I have always considered myself a problem-solver before anything, I decided to take a leap of faith and follow my long-postponed dream to become a developer. Even though I know my trip has just started I am already proud of all the things I have learned and excited for the many many others I need to discover.
+And for over twelve years I was a journalist in a convulsed Venezuela. Helping international news teams to find good stories was my passion until it got too dangerous and stressful. Since I have always considered myself a problem-solver before anything, I decided to take a leap of faith and follow my long-postponed dream to become a developer. Even though I know my trip has just started I am already proud of all the things I have learned and excited for the many many others I need to discover.
 
 ---
 
