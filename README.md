@@ -2,13 +2,13 @@
 
 <img align="left" width="300" height="300" src="https://user-images.githubusercontent.com/62892745/90345063-68b21a80-dfec-11ea-8d8c-4ce6edcaf6f8.png">
 
-And for over twelve years I was a journalist in a convulsed Venezuela. Helping international news teams to find good stories was my passion until it got too dangerous and stressful. Since I have always considered myself a problem-solver before anything, I decided to take a leap of faith and follow my long-postponed dream to become a developer. Spoiler alert: The moment I learned react I loved it.
+And REACT.js is my real passion. For over twelve years I was a journalist in a convulsed Venezuela. Helping international news teams to find good stories was my passion until it got too dangerous and stressful. Since I have always considered myself a problem-solver before anything, I decided to take a leap of faith and follow my long-postponed dream to become a developer. Spoiler alert: The moment I learned react I loved it.
 
 ---
 
 Growing up in a humble environment has taught me a lot and it makes me want to participate in developing solutions to make people's lives not only easier but happier.
 I consider mediocrity humanity's worst enemy and I try my best to teach my 4-year-old daughter to always give her best and seriously commit to her dreams as I myself try to do.
-I'm passionate about pop culture, anime, movies, drawing, photography and fashion design (this one because of my lovely wife); so if you would like to have a conversation about any of these topics do not hesitate to send me a whatsapp message to **+58-424-134127** or an email to **yesmanshiva@gmail.com**.
+I'm passionate about web development, pop culture, anime, movies, drawing, photography and fashion design (this one because of my lovely wife); so if you would like to have a conversation about any of these topics do not hesitate to send me a whatsapp message to **+58-424-134127** or an email to **yesmanshiva@gmail.com**.
 
 <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/62892745/90345068-6c45a180-dfec-11ea-9d1d-d5bf3233b299.png">
 
